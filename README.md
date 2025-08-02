@@ -11,3 +11,4 @@ The Return of Sherlock Holmes
 - 修院學校探案
 - 黑彼得探案
 - 查爾斯．奧卡斯塔．麥維頓探案
+- 魔鬼的腳探案
